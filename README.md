@@ -1,3 +1,5 @@
+##Can be used for https://livesql.oracle.com/
+
 drop table employee;
 CREATE TABLE employee (
     emp_id              NUMBER(4)      NOT NULL,
